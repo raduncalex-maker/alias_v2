@@ -1,0 +1,11 @@
+{
+  "name": "alias",
+  "version": "0.0.0",
+  "main": "module.js",
+  "private": true,
+  "files": [
+    "module.js",
+    "words.json",
+    "public"
+  ]
+}
